@@ -5,7 +5,7 @@ The flow Diagram of the system:
 
 
 
-The sustem mainly consists of 2 parts:
+The system mainly consists of 2 parts:
 a)Real time facial emotion detection & prediction using CNN
 b) Recommendation of songs from the knowledge graphs
 
